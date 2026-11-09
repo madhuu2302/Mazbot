@@ -1,5 +1,7 @@
 # 🧠 MAZBOT – Memory-Based AI Chatbot
 
+DEMO:http://localhost:8501/
+
 ### Think. Learn. Remember. Respond.
 
 MAZBOT is an intelligent AI chatbot developed using Python, Streamlit, LangChain, and Ollama. It provides interactive conversations and remembers previous messages within the active chat session using LangChain's InMemoryChatMessageHistory.
@@ -81,13 +83,8 @@ MAZBOT uses LangChain's `InMemoryChatMessageHistory` to store previous user and 
 
 **Example:**
 
-User: My name is Madhu.
+![Uploading Mazbot output.png…]()
 
-MAZBOT: Nice to meet you, Madhu!
-
-User: What is my name?
-
-MAZBOT: Your name is Madhu!
 
 The chatbot uses previous conversation history to generate context-aware responses.
 
