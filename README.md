@@ -83,7 +83,8 @@ MAZBOT uses LangChain's `InMemoryChatMessageHistory` to store previous user and 
 
 **Example:**
 
-![Uploading Mazbot output.png…]()
+<img width="1511" height="702" alt="Screenshot 2026-11-09 154618" src="https://github.com/user-attachments/assets/1b8e707a-e038-4c25-a559-1cb63e23427c" />
+
 
 
 The chatbot uses previous conversation history to generate context-aware responses.
